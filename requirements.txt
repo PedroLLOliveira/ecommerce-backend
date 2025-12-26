@@ -1,0 +1,8 @@
+asgiref==3.11.0
+Django==6.0
+djangorestframework==3.16.1
+dotenv==0.9.9
+mysqlclient==2.2.7
+python-dotenv==1.2.1
+sqlparse==0.5.5
+wheel==0.45.1
